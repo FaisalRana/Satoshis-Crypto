@@ -6,7 +6,6 @@
 <h5 align="center"> Team Week C#  </h5>
 
 <p align="center"> 
-<img src="https://i.pinimg.com/originals/92/96/f7/9296f70fce1ae3f298e0d085c17f6a3f.gif" alt="Animated rocket ship" height="382px">
 </p>
 
 <p>This C# MVC API application will scrape the subreddit <a href="https://www.reddit.com/r/CryptoCurrency/"> r/crytocurrency</a> for mentions of ADA, ETH, BTC, LINK and DOGE in order to inform users what are the most talked about coins in the past 24 hours. </p>
@@ -125,6 +124,14 @@ MySQL is a type of database software used to create, edit, query, and manage SQL
 
 </details>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+### Home Page
+<img src="https://i.pinimg.com/originals/92/96/f7/9296f70fce1ae3f298e0d085c17f6a3f.gif" alt="Animated rocket ship" height="382px">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/saoud/csharp-TDD-template/blob/main/LICENSE)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
