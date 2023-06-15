@@ -1,6 +1,4 @@
 <p align="center"> 
-  <img src="[https://ibb.co/zmvPK6d](https://i.ibb.co/10WRHzc/Satoshi-Crypto.png)" alt="pic of bitcoins.jpeg" width="240px" height="px">
-  <img>[Description](https://i.ibb.co/10WRHzc/Satoshi-Crypto.png)</img>
   <img src="https://i.ibb.co/10WRHzc/Satoshi-Crypto.png" alt="Animated rocket ship" height="382px">
 </p>
 <h1 align="center"> Satoshi's Crypto </h1>
