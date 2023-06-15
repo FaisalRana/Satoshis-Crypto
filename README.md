@@ -1,6 +1,6 @@
 <p align="center"> 
   <img src="[https://ibb.co/zmvPK6d](https://i.ibb.co/10WRHzc/Satoshi-Crypto.png)" alt="pic of bitcoins.jpeg" width="240px" height="px">
-  ![Description](https://i.ibb.co/10WRHzc/Satoshi-Crypto.png)
+  <img>[Description](https://i.ibb.co/10WRHzc/Satoshi-Crypto.png)</img>
 </p>
 <h1 align="center"> Satoshi's Crypto </h1>
 <h3 align="center"> Epicodus - January PT Cohort </h3>
