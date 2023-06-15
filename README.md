@@ -1,6 +1,4 @@
-<p align="center"> 
-  <img src="https://i.ibb.co/10WRHzc/Satoshi-Crypto.png" alt="Animated rocket ship" height="382px">
-</p>
+
 <h1 align="center"> Satoshi's Crypto </h1>
 <h3 align="center"> Epicodus - January PT Cohort </h3>
 <h5 align="center"> Team Week C#  </h5>
@@ -31,6 +29,15 @@
 * The max results returned for any crypto in a 24 hour period is 600.  If there are multiple crypto currencies that return 600, our sortedlist will not work
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## Home Page
+
+<p align="center"> 
+  <img src="https://i.ibb.co/10WRHzc/Satoshi-Crypto.png" alt="Animated rocket ship" height="382px">
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 ## Improvement Opportunities 
 
